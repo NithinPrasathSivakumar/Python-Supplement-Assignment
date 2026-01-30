@@ -1,7 +1,7 @@
 # Problem 50: Convert string to uppercase
 # Find and fix the error
 
-text = "python programming"
+text ="python programming"
 uppercase = ""
 for char in text:
     if char >= 'a' and char <= 'z':

@@ -2,7 +2,7 @@
 # Find and fix the error
 
 def gcd(a, b):
-    while b != 0:
+    while b !=0:
         temp = b
         b = a % b
         a = temp

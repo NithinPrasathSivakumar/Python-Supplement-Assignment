@@ -5,4 +5,4 @@ words = ["Hello", "World", "Python"]
 sentence = ""
 for word in words:
     sentence += word + " "
-print(f"Sentence: {sentence}")
+print(f"Sentence {sentence}")
